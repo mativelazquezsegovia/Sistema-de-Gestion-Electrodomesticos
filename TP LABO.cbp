@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="TP LABO" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/TP LABO" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/TP LABO" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Aplicacion.cpp" />
+		<Unit filename="Aplicacion.h" />
+		<Unit filename="ArchivoClientes.cpp" />
+		<Unit filename="ArchivoClientes.h" />
+		<Unit filename="ArchivoElectrodomesticos.cpp" />
+		<Unit filename="ArchivoElectrodomesticos.h" />
+		<Unit filename="ArchivoVentas.cpp" />
+		<Unit filename="ArchivoVentas.h" />
+		<Unit filename="Clientes.cpp" />
+		<Unit filename="Clientes.h" />
+		<Unit filename="ClientesMenu.cpp" />
+		<Unit filename="ClientesMenu.h" />
+		<Unit filename="Electrodomesticos.cpp" />
+		<Unit filename="Electrodomesticos.h" />
+		<Unit filename="ElectrodomesticosMenu.cpp" />
+		<Unit filename="ElectrodomesticosMenu.h" />
+		<Unit filename="Fecha.cpp" />
+		<Unit filename="Fecha.h" />
+		<Unit filename="Funciones.cpp" />
+		<Unit filename="Funciones.h" />
+		<Unit filename="ManagerClientes.cpp" />
+		<Unit filename="ManagerClientes.h" />
+		<Unit filename="ManagerElectrodomesticos.cpp" />
+		<Unit filename="ManagerElectrodomesticos.h" />
+		<Unit filename="ManagerVentas.cpp" />
+		<Unit filename="ManagerVentas.h" />
+		<Unit filename="Ventas.cpp" />
+		<Unit filename="Ventas.h" />
+		<Unit filename="VentasMenu.cpp" />
+		<Unit filename="VentasMenu.h" />
+		<Unit filename="configuracionMenu.cpp" />
+		<Unit filename="configuracionMenu.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="rlutil.h" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

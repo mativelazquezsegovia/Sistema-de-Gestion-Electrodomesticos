@@ -1,0 +1,91 @@
+Clientes:
+
+1°
+35426853
+Matias
+Velazquez
+Pasaje 8
+1126390459
+mativelazquez@yahoo.com
+14
+11
+1990
+
+2°
+37162992
+Jacqueline
+Frias
+PiedraBuena 157
+1167113741
+jaquifrias@yahoo.com
+31
+08
+1992
+
+3°
+35240850
+Ciro
+Velazquez
+Larroca 1197
+1167686472
+cirovelazquez@yahoo.com
+21
+08
+2017
+
+4°
+12345678
+Lola
+Velazquez
+Arias 1951
+1122334455
+lolavelazquez@yahoo.com
+20
+10
+2020
+
+5°
+87654321
+Indio 
+Velazquez
+Pasaje 10
+1145285612
+indiovelazquez@yahoo.com
+25
+03
+2019
+
+6°
+37123856
+Mora
+Velazquez
+Boulevard Amad 400
+1123456789
+moravelazquez@yahoo.com
+09
+02
+2021
+
+7°
+21426992
+Qatar
+Velazquez
+Av. Constituyentes 1000
+1126396711
+qatarvelazquez@yahoo.com
+27
+10
+2022
+
+8°
+40162882
+Luna 
+Velazquez
+Bourdet 500
+1145325698
+lunavelazquez@yahoo.com
+30
+12
+2023
+
+

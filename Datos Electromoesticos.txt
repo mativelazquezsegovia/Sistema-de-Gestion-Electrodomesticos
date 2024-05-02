@@ -1,0 +1,122 @@
+Electrodomesticos:
+
+1°
+1001
+Lavadora
+599.99
+10
+7
+1
+
+2°
+2002
+Heladera
+1799.99
+15
+400
+1
+
+3°
+3003
+Horno
+129.99
+20
+0.8
+1
+
+4°
+4004
+Cafetera
+49.99
+30
+1
+1
+
+5°
+5005
+Aspiradora
+89.99
+25
+2
+1
+
+6°
+6006
+Licuadora
+639.99
+0
+0.5
+1
+
+7°
+7007
+Secadora
+299.99
+10
+10
+1
+
+8°
+8008
+Batidora
+259.99
+20
+0.7
+1
+
+9°
+9009
+Plancha
+119.99
+0
+0.3
+1
+
+10°
+1010
+Exprimidor
+29.99
+10
+0.6
+1
+
+void ArchivoElectrodomesticos::mostrarPorDisponibilidad(bool mostrarAgotados)
+{
+    Electrodomesticos *vec;
+    int cantRegistros = contarRegistros();
+    if (cantRegistros == 0)
+    {
+        cout << "NO HAY ELECTRODOMESTICOS CARGADOS" << endl;
+        return;
+    }
+    vec = new Electrodomesticos[cantRegistros];
+    if (vec == NULL)
+    {
+        cout << "ERROR AL SOLICITAR MEMORIA" << endl;
+        return;
+    }
+    // Leer los registros del archivo y almacenarlos en el vector
+    for (int i = 0; i < cantRegistros; i++)
+    {
+        vec[i] = leerRegistro(i);
+    }
+    // Llamar a la función Ordenar de ManagerElectrodomesticos
+    ManagerElectrodomesticos::Ordenar(vec, cantRegistros);
+
+    // Mostrar los registros según la condición
+    bool hayElectrodomesticos = false;
+    for (int i = 0; i < cantRegistros; i++)
+    {
+        if ((mostrarAgotados && vec[i].getStock() == 0) || (!mostrarAgotados && vec[i].getStock() > 0))
+        {
+            // Imprime la información directamente
+            cout << "Codigo: " << vec[i].getCodigo() << " | Nombre: " << vec[i].getNombre() << " | Precio: " << vec[i].getPrecioUnitario() << " | Stock: " << vec[i].getStock() << endl;
+            hayElectrodomesticos = true;
+        }
+    }
+    delete[] vec;
+    if (!hayElectrodomesticos)
+    {
+        cout << "NO HAY ELECTRODOMESTICOS DISPONIBLES" << endl;
+    }
+}

@@ -1,0 +1,943 @@
+# depslib dependency file v1.0
+1707168980 source:c:\users\matti\onedrive\escritorio\tp labo\aplicacion.cpp
+	"Aplicacion.h"
+	<iostream>
+	"ClientesMenu.h"
+
+1707169031 c:\users\matti\onedrive\escritorio\tp labo\aplicacion.h
+
+1707164286 c:\users\matti\onedrive\escritorio\tp labo\clientesmenu.h
+	"ManagerClientes.h"
+
+1707172481 c:\users\matti\onedrive\escritorio\tp labo\managerclientes.h
+	"Clientes.h"
+	"ArchivoClientes.h"
+
+1707158604 c:\users\matti\onedrive\escritorio\tp labo\clientes.h
+	"Fecha.h"
+
+1707167388 c:\users\matti\onedrive\escritorio\tp labo\fecha.h
+	<string>
+
+1707167257 c:\users\matti\onedrive\escritorio\tp labo\archivoclientes.h
+	"Clientes.h"
+	<string>
+
+1707166986 source:c:\users\matti\onedrive\escritorio\tp labo\archivoclientes.cpp
+	"ArchivoClientes.h"
+	<cstdio>
+	<iostream>
+
+1707165331 source:c:\users\matti\onedrive\escritorio\tp labo\clientes.cpp
+	"Clientes.h"
+	<cstring>
+
+1707171841 source:c:\users\matti\onedrive\escritorio\tp labo\clientesmenu.cpp
+	"ClientesMenu.h"
+	<iostream>
+
+1707167359 source:c:\users\matti\onedrive\escritorio\tp labo\fecha.cpp
+	<ctime>
+	<iostream>
+	"fecha.h"
+
+1707169521 source:c:\users\matti\onedrive\escritorio\tp labo\main.cpp
+	"Aplicacion.h"
+
+1707170581 source:c:\users\matti\onedrive\escritorio\tp labo\managerclientes.cpp
+	"ManagerClientes.h"
+	<iostream>
+
+1708386357 source:c:\users\matti\streaming de google drive\otros ordenadores\mi pc\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo\aplicacion.cpp
+	"Aplicacion.h"
+	"ClientesMenu.h"
+	"ElectrodomesticosMenu.h"
+	"VentasMenu.h"
+	"configuracionMenu.h"
+	<iostream>
+	"rlutil.h"
+	"Funciones.h"
+
+1708376012 c:\users\matti\streaming de google drive\otros ordenadores\mi pc\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo\aplicacion.h
+
+1708386078 c:\users\matti\streaming de google drive\otros ordenadores\mi pc\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo\clientesmenu.h
+	"ManagerClientes.h"
+
+1708292556 c:\users\matti\streaming de google drive\otros ordenadores\mi pc\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo\managerclientes.h
+	"Clientes.h"
+	"ArchivoClientes.h"
+	"ArchivoVentas.h"
+
+1707158604 c:\users\matti\streaming de google drive\otros ordenadores\mi pc\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo\clientes.h
+	"Fecha.h"
+
+1707936394 c:\users\matti\streaming de google drive\otros ordenadores\mi pc\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo\fecha.h
+	<string>
+
+1708303552 c:\users\matti\streaming de google drive\otros ordenadores\mi pc\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo\archivoclientes.h
+	"Clientes.h"
+	<string>
+
+1708303552 source:c:\users\matti\streaming de google drive\otros ordenadores\mi pc\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo\archivoclientes.cpp
+	"ArchivoClientes.h"
+	<cstdio>
+	<iostream>
+
+1707938186 source:c:\users\matti\streaming de google drive\otros ordenadores\mi pc\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo\clientes.cpp
+	"Clientes.h"
+	<iostream>
+	<cstring>
+
+1707936496 source:c:\users\matti\streaming de google drive\otros ordenadores\mi pc\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo\fecha.cpp
+	<ctime>
+	<iostream>
+	"fecha.h"
+
+1708370563 source:c:\users\matti\streaming de google drive\otros ordenadores\mi pc\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo\main.cpp
+	"Aplicacion.h"
+
+1708390402 source:c:\users\matti\streaming de google drive\otros ordenadores\mi pc\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo\clientesmenu.cpp
+	"ClientesMenu.h"
+	"rlutil.h"
+	"Funciones.h"
+	<iostream>
+
+1708389905 source:c:\users\matti\streaming de google drive\otros ordenadores\mi pc\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo\managerclientes.cpp
+	"ManagerClientes.h"
+	"ArchivoVentas.h"
+	"rlutil.h"
+	"Funciones.h"
+	<iostream>
+
+1708381520 source:c:\users\matti\streaming de google drive\otros ordenadores\mi pc\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo\funciones.cpp
+	<iostream>
+	"Funciones.h"
+	"rlutil.h"
+
+1708374555 c:\users\matti\streaming de google drive\otros ordenadores\mi pc\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo\funciones.h
+
+1708023642 source:c:\users\matti\streaming de google drive\otros ordenadores\mi pc\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo\electrodomesticos.cpp
+	"Electrodomesticos.h"
+	<iostream>
+	<cstring>
+
+1708023642 c:\users\matti\streaming de google drive\otros ordenadores\mi pc\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo\electrodomesticos.h
+	"Fecha.h"
+
+1708305511 source:c:\users\matti\streaming de google drive\otros ordenadores\mi pc\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo\archivoelectrodomesticos.cpp
+	"ArchivoElectrodomesticos.h"
+	"ManagerElectrodomesticos.h"
+	<cstdio>
+	<iostream>
+
+1708305511 c:\users\matti\streaming de google drive\otros ordenadores\mi pc\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo\archivoelectrodomesticos.h
+	"Electrodomesticos.h"
+	<string>
+
+1708391198 source:c:\users\matti\streaming de google drive\otros ordenadores\mi pc\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo\managerelectrodomesticos.cpp
+	"ManagerElectrodomesticos.h"
+	"rlutil.h"
+	"Funciones.h"
+	<iostream>
+
+1708339460 c:\users\matti\streaming de google drive\otros ordenadores\mi pc\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo\managerelectrodomesticos.h
+	"Electrodomesticos.h"
+	"ArchivoElectrodomesticos.h"
+
+1708386506 c:\users\matti\streaming de google drive\otros ordenadores\mi pc\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo\electrodomesticosmenu.h
+	"ManagerElectrodomesticos.h"
+
+1708391376 source:c:\users\matti\streaming de google drive\otros ordenadores\mi pc\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo\electrodomesticosmenu.cpp
+	"ElectrodomesticosMenu.h"
+	<iostream>
+	"rlutil.h"
+	"Funciones.h"
+
+1708386677 c:\users\matti\streaming de google drive\otros ordenadores\mi pc\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo\ventasmenu.h
+	"ManagerVentas.h"
+
+1708378938 c:\users\matti\streaming de google drive\otros ordenadores\mi pc\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo\managerventas.h
+	"ArchivoClientes.h"
+	"ArchivoElectrodomesticos.h"
+	"Ventas.h"
+	"ArchivoVentas.h"
+	"ManagerClientes.h"
+	"ManagerElectrodomesticos.h"
+	<string>
+
+1708284439 c:\users\matti\streaming de google drive\otros ordenadores\mi pc\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo\ventas.h
+	"Fecha.h"
+
+1708304052 c:\users\matti\streaming de google drive\otros ordenadores\mi pc\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo\archivoventas.h
+	"Ventas.h"
+	<string>
+
+1708304052 source:c:\users\matti\streaming de google drive\otros ordenadores\mi pc\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo\archivoventas.cpp
+	"ArchivoVentas.h"
+	"ManagerVentas.h"
+	<cstdio>
+	<iostream>
+
+1708284496 source:c:\users\matti\streaming de google drive\otros ordenadores\mi pc\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo\ventas.cpp
+	"Ventas.h"
+	<iostream>
+	<ctime>
+	<cstring>
+
+1708392664 source:c:\users\matti\streaming de google drive\otros ordenadores\mi pc\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo\ventasmenu.cpp
+	"VentasMenu.h"
+	<iostream>
+	"rlutil.h"
+	"Funciones.h"
+
+1708392342 source:c:\users\matti\streaming de google drive\otros ordenadores\mi pc\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo\managerventas.cpp
+	"ManagerVentas.h"
+	"ArchivoClientes.h"
+	"ArchivoElectrodomesticos.h"
+	"ManagerClientes.h"
+	"ManagerElectrodomesticos.h"
+	"Fecha.h"
+	<ctime>
+	"rlutil.h"
+	"Funciones.h"
+	<iostream>
+	<cstdlib>
+	<string>
+
+1707775024 c:\users\matti\streaming de google drive\otros ordenadores\mi pc\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo\configuracionmenu.h
+	"ArchivoClientes.h"
+	"ArchivoVentas.h"
+	"ArchivoElectrodomesticos.h"
+
+1707943581 source:c:\users\matti\streaming de google drive\otros ordenadores\mi pc\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo\configuracionmenu.cpp
+	"configuracionMenu.h"
+	"ArchivoClientes.h"
+	"ArchivoVentas.h"
+	"ArchivoElectrodomesticos.h"
+	<iostream>
+
+1707939807 source:c:\users\mati\desktop\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo\aplicacion.cpp
+	"Aplicacion.h"
+	"ClientesMenu.h"
+	"ElectrodomesticosMenu.h"
+	"VentasMenu.h"
+	"configuracionMenu.h"
+	<iostream>
+
+1707169031 c:\users\mati\desktop\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo\aplicacion.h
+
+1707164286 c:\users\mati\desktop\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo\clientesmenu.h
+	"ManagerClientes.h"
+
+1707603918 c:\users\mati\desktop\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo\managerclientes.h
+	"Clientes.h"
+	"ArchivoClientes.h"
+	"ArchivoVentas.h"
+
+1707158604 c:\users\mati\desktop\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo\clientes.h
+	"Fecha.h"
+
+1707936406 c:\users\mati\desktop\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo\fecha.h
+	<string>
+
+1707771965 c:\users\mati\desktop\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo\archivoclientes.h
+	"Clientes.h"
+	<string>
+
+1707779299 c:\users\mati\desktop\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo\archivoventas.h
+	"Ventas.h"
+	<string>
+
+1707954135 c:\users\mati\desktop\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo\ventas.h
+	"Fecha.h"
+
+1707333345 c:\users\mati\desktop\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo\electrodomesticosmenu.h
+	"ManagerElectrodomesticos.h"
+
+1707961579 c:\users\mati\desktop\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo\managerelectrodomesticos.h
+	"Electrodomesticos.h"
+	"ArchivoElectrodomesticos.h"
+
+1707960941 c:\users\mati\desktop\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo\electrodomesticos.h
+	"Fecha.h"
+
+1707771984 c:\users\mati\desktop\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo\archivoelectrodomesticos.h
+	"Electrodomesticos.h"
+	<string>
+
+1707341733 c:\users\mati\desktop\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo\ventasmenu.h
+	"ManagerVentas.h"
+
+1707961691 c:\users\mati\desktop\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo\managerventas.h
+	"ArchivoClientes.h"
+	"ArchivoElectrodomesticos.h"
+	"Ventas.h"
+	"ArchivoVentas.h"
+	"ManagerClientes.h"
+	"ManagerElectrodomesticos.h"
+	<string>
+
+1707775038 c:\users\mati\desktop\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo\configuracionmenu.h
+	"ArchivoClientes.h"
+	"ArchivoVentas.h"
+	"ArchivoElectrodomesticos.h"
+
+1707942863 source:c:\users\mati\desktop\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo\archivoclientes.cpp
+	"ArchivoClientes.h"
+	<cstdio>
+	<iostream>
+
+1707953744 source:c:\users\mati\desktop\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo\archivoelectrodomesticos.cpp
+	"ArchivoElectrodomesticos.h"
+	<cstdio>
+	<iostream>
+
+1707780677 source:c:\users\mati\desktop\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo\archivoventas.cpp
+	"ArchivoVentas.h"
+	"ManagerVentas.h"
+	<cstdio>
+	<iostream>
+
+1707938194 source:c:\users\mati\desktop\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo\clientes.cpp
+	"Clientes.h"
+	<iostream>
+	<cstring>
+
+1707940745 source:c:\users\mati\desktop\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo\clientesmenu.cpp
+	"ClientesMenu.h"
+	<iostream>
+
+1707943594 source:c:\users\mati\desktop\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo\configuracionmenu.cpp
+	"configuracionMenu.h"
+	"ArchivoClientes.h"
+	"ArchivoVentas.h"
+	"ArchivoElectrodomesticos.h"
+	<iostream>
+
+1707960941 source:c:\users\mati\desktop\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo\electrodomesticos.cpp
+	"Electrodomesticos.h"
+	<iostream>
+	<cstring>
+
+1707941331 source:c:\users\mati\desktop\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo\electrodomesticosmenu.cpp
+	"ElectrodomesticosMenu.h"
+	<iostream>
+
+1707936509 source:c:\users\mati\desktop\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo\fecha.cpp
+	<ctime>
+	<iostream>
+	"fecha.h"
+
+1707169521 source:c:\users\mati\desktop\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo\main.cpp
+	"Aplicacion.h"
+
+1707943611 source:c:\users\mati\desktop\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo\managerclientes.cpp
+	"ManagerClientes.h"
+	"ArchivoVentas.h"
+	<iostream>
+
+1707961579 source:c:\users\mati\desktop\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo\managerelectrodomesticos.cpp
+	"ManagerElectrodomesticos.h"
+	<iostream>
+
+1707961691 source:c:\users\mati\desktop\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo\managerventas.cpp
+	"ManagerVentas.h"
+	"ArchivoClientes.h"
+	"ArchivoElectrodomesticos.h"
+	"ManagerClientes.h"
+	"ManagerElectrodomesticos.h"
+	"Fecha.h"
+	<ctime>
+	<iostream>
+	<cstdlib>
+	<string>
+
+1707959715 source:c:\users\mati\desktop\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo\ventas.cpp
+	"Ventas.h"
+	<iostream>
+	<cstring>
+
+1707953163 source:c:\users\mati\desktop\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo\ventasmenu.cpp
+	"VentasMenu.h"
+	<iostream>
+
+1708341126 c:\users\matti\streaming de google drive\otros ordenadores\mi pc\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1708561910 source:c:\users\matti\streaming de google drive\otros ordenadores\mi pc\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo con menu\aplicacion.cpp
+	"Aplicacion.h"
+	"ClientesMenu.h"
+	"ElectrodomesticosMenu.h"
+	"VentasMenu.h"
+	"configuracionMenu.h"
+	<iostream>
+	"rlutil.h"
+	"Funciones.h"
+
+1708542218 c:\users\matti\streaming de google drive\otros ordenadores\mi pc\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo con menu\aplicacion.h
+
+1708386078 c:\users\matti\streaming de google drive\otros ordenadores\mi pc\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo con menu\clientesmenu.h
+	"ManagerClientes.h"
+
+1708292556 c:\users\matti\streaming de google drive\otros ordenadores\mi pc\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo con menu\managerclientes.h
+	"Clientes.h"
+	"ArchivoClientes.h"
+	"ArchivoVentas.h"
+
+1707158604 c:\users\matti\streaming de google drive\otros ordenadores\mi pc\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo con menu\clientes.h
+	"Fecha.h"
+
+1707936394 c:\users\matti\streaming de google drive\otros ordenadores\mi pc\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo con menu\fecha.h
+	<string>
+
+1708303552 c:\users\matti\streaming de google drive\otros ordenadores\mi pc\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo con menu\archivoclientes.h
+	"Clientes.h"
+	<string>
+
+1708304052 c:\users\matti\streaming de google drive\otros ordenadores\mi pc\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo con menu\archivoventas.h
+	"Ventas.h"
+	<string>
+
+1708284439 c:\users\matti\streaming de google drive\otros ordenadores\mi pc\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo con menu\ventas.h
+	"Fecha.h"
+
+1708386506 c:\users\matti\streaming de google drive\otros ordenadores\mi pc\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo con menu\electrodomesticosmenu.h
+	"ManagerElectrodomesticos.h"
+
+1708339460 c:\users\matti\streaming de google drive\otros ordenadores\mi pc\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo con menu\managerelectrodomesticos.h
+	"Electrodomesticos.h"
+	"ArchivoElectrodomesticos.h"
+
+1708023642 c:\users\matti\streaming de google drive\otros ordenadores\mi pc\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo con menu\electrodomesticos.h
+	"Fecha.h"
+
+1708305511 c:\users\matti\streaming de google drive\otros ordenadores\mi pc\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo con menu\archivoelectrodomesticos.h
+	"Electrodomesticos.h"
+	<string>
+
+1708386677 c:\users\matti\streaming de google drive\otros ordenadores\mi pc\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo con menu\ventasmenu.h
+	"ManagerVentas.h"
+
+1708554552 c:\users\matti\streaming de google drive\otros ordenadores\mi pc\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo con menu\managerventas.h
+	"ArchivoClientes.h"
+	"ArchivoElectrodomesticos.h"
+	"Ventas.h"
+	"ArchivoVentas.h"
+	"ManagerClientes.h"
+	"ManagerElectrodomesticos.h"
+	<string>
+
+1708538859 c:\users\matti\streaming de google drive\otros ordenadores\mi pc\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo con menu\configuracionmenu.h
+	"ArchivoClientes.h"
+	"ArchivoVentas.h"
+	"ArchivoElectrodomesticos.h"
+
+1708341126 c:\users\matti\streaming de google drive\otros ordenadores\mi pc\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo con menu\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1708374555 c:\users\matti\streaming de google drive\otros ordenadores\mi pc\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo con menu\funciones.h
+
+1708303552 source:c:\users\matti\streaming de google drive\otros ordenadores\mi pc\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo con menu\archivoclientes.cpp
+	"ArchivoClientes.h"
+	<cstdio>
+	<iostream>
+
+1708305511 source:c:\users\matti\streaming de google drive\otros ordenadores\mi pc\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo con menu\archivoelectrodomesticos.cpp
+	"ArchivoElectrodomesticos.h"
+	"ManagerElectrodomesticos.h"
+	<cstdio>
+	<iostream>
+
+1708560644 source:c:\users\matti\streaming de google drive\otros ordenadores\mi pc\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo con menu\archivoventas.cpp
+	"ArchivoVentas.h"
+	"ManagerVentas.h"
+	<cstdio>
+	<iostream>
+
+1707938186 source:c:\users\matti\streaming de google drive\otros ordenadores\mi pc\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo con menu\clientes.cpp
+	"Clientes.h"
+	<iostream>
+	<cstring>
+
+1708547271 source:c:\users\matti\streaming de google drive\otros ordenadores\mi pc\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo con menu\clientesmenu.cpp
+	"ClientesMenu.h"
+	"rlutil.h"
+	"Funciones.h"
+	<iostream>
+
+1708539797 source:c:\users\matti\streaming de google drive\otros ordenadores\mi pc\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo con menu\configuracionmenu.cpp
+	"configuracionMenu.h"
+	"ArchivoClientes.h"
+	"ArchivoVentas.h"
+	"ArchivoElectrodomesticos.h"
+	"rlutil.h"
+	"Funciones.h"
+	<iostream>
+
+1708023642 source:c:\users\matti\streaming de google drive\otros ordenadores\mi pc\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo con menu\electrodomesticos.cpp
+	"Electrodomesticos.h"
+	<iostream>
+	<cstring>
+
+1708547361 source:c:\users\matti\streaming de google drive\otros ordenadores\mi pc\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo con menu\electrodomesticosmenu.cpp
+	"ElectrodomesticosMenu.h"
+	<iostream>
+	"rlutil.h"
+	"Funciones.h"
+
+1707936496 source:c:\users\matti\streaming de google drive\otros ordenadores\mi pc\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo con menu\fecha.cpp
+	<ctime>
+	<iostream>
+	"fecha.h"
+
+1708542432 source:c:\users\matti\streaming de google drive\otros ordenadores\mi pc\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo con menu\funciones.cpp
+	<iostream>
+	"Funciones.h"
+	"rlutil.h"
+
+1708550870 source:c:\users\matti\streaming de google drive\otros ordenadores\mi pc\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo con menu\main.cpp
+	"Aplicacion.h"
+	"ManagerVentas.h"
+	"Ventas.h"
+
+1708547800 source:c:\users\matti\streaming de google drive\otros ordenadores\mi pc\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo con menu\managerclientes.cpp
+	"ManagerClientes.h"
+	"ArchivoVentas.h"
+	"rlutil.h"
+	"Funciones.h"
+	<iostream>
+
+1708531164 source:c:\users\matti\streaming de google drive\otros ordenadores\mi pc\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo con menu\managerelectrodomesticos.cpp
+	"ManagerElectrodomesticos.h"
+	"rlutil.h"
+	"Funciones.h"
+	<iostream>
+
+1708561609 source:c:\users\matti\streaming de google drive\otros ordenadores\mi pc\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo con menu\managerventas.cpp
+	"ManagerVentas.h"
+	"ArchivoClientes.h"
+	"ArchivoElectrodomesticos.h"
+	"ManagerClientes.h"
+	"ManagerElectrodomesticos.h"
+	"Fecha.h"
+	<ctime>
+	"rlutil.h"
+	"Funciones.h"
+	<iostream>
+	<cstdlib>
+	<string>
+
+1708284496 source:c:\users\matti\streaming de google drive\otros ordenadores\mi pc\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo con menu\ventas.cpp
+	"Ventas.h"
+	<iostream>
+	<ctime>
+	<cstring>
+
+1708560267 source:c:\users\matti\streaming de google drive\otros ordenadores\mi pc\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo con menu\ventasmenu.cpp
+	"VentasMenu.h"
+	<iostream>
+	"rlutil.h"
+	"Funciones.h"
+
+1708632811 source:c:\users\mati\desktop\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo con menu\aplicacion.cpp
+	"Aplicacion.h"
+	"ClientesMenu.h"
+	"ElectrodomesticosMenu.h"
+	"VentasMenu.h"
+	"configuracionMenu.h"
+	<iostream>
+	"rlutil.h"
+	"Funciones.h"
+
+1708542232 c:\users\mati\desktop\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo con menu\aplicacion.h
+
+1708386078 c:\users\mati\desktop\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo con menu\clientesmenu.h
+	"ManagerClientes.h"
+
+1708292556 c:\users\mati\desktop\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo con menu\managerclientes.h
+	"Clientes.h"
+	"ArchivoClientes.h"
+	"ArchivoVentas.h"
+
+1708624706 c:\users\mati\desktop\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo con menu\clientes.h
+	"Fecha.h"
+	<string>
+
+1707936394 c:\users\mati\desktop\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo con menu\fecha.h
+	<string>
+
+1708303552 c:\users\mati\desktop\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo con menu\archivoclientes.h
+	"Clientes.h"
+	<string>
+
+1708631213 c:\users\mati\desktop\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo con menu\archivoventas.h
+	"Ventas.h"
+	<string>
+
+1708284439 c:\users\mati\desktop\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo con menu\ventas.h
+	"Fecha.h"
+
+1708386506 c:\users\mati\desktop\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo con menu\electrodomesticosmenu.h
+	"ManagerElectrodomesticos.h"
+
+1708339460 c:\users\mati\desktop\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo con menu\managerelectrodomesticos.h
+	"Electrodomesticos.h"
+	"ArchivoElectrodomesticos.h"
+
+1708627612 c:\users\mati\desktop\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo con menu\electrodomesticos.h
+	"Fecha.h"
+
+1708305511 c:\users\mati\desktop\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo con menu\archivoelectrodomesticos.h
+	"Electrodomesticos.h"
+	<string>
+
+1708386677 c:\users\mati\desktop\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo con menu\ventasmenu.h
+	"ManagerVentas.h"
+
+1708554565 c:\users\mati\desktop\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo con menu\managerventas.h
+	"ArchivoClientes.h"
+	"ArchivoElectrodomesticos.h"
+	"Ventas.h"
+	"ArchivoVentas.h"
+	"ManagerClientes.h"
+	"ManagerElectrodomesticos.h"
+	<string>
+
+1708538871 c:\users\mati\desktop\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo con menu\configuracionmenu.h
+	"ArchivoClientes.h"
+	"ArchivoVentas.h"
+	"ArchivoElectrodomesticos.h"
+
+1708341126 c:\users\mati\desktop\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo con menu\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1708624650 c:\users\mati\desktop\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo con menu\funciones.h
+	<cstring>
+
+1708303552 source:c:\users\mati\desktop\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo con menu\archivoclientes.cpp
+	"ArchivoClientes.h"
+	<cstdio>
+	<iostream>
+
+1708628562 source:c:\users\mati\desktop\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo con menu\archivoelectrodomesticos.cpp
+	"ArchivoElectrodomesticos.h"
+	"ManagerElectrodomesticos.h"
+	<cstdio>
+	<iostream>
+
+1708632077 source:c:\users\mati\desktop\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo con menu\archivoventas.cpp
+	"ArchivoVentas.h"
+	"ManagerVentas.h"
+	<cstdio>
+	<iostream>
+
+1708627567 source:c:\users\mati\desktop\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo con menu\clientes.cpp
+	"Clientes.h"
+	<iostream>
+	<string>
+	<cstring>
+
+1708627331 source:c:\users\mati\desktop\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo con menu\clientesmenu.cpp
+	"ClientesMenu.h"
+	"rlutil.h"
+	"Funciones.h"
+	<iostream>
+
+1708539808 source:c:\users\mati\desktop\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo con menu\configuracionmenu.cpp
+	"configuracionMenu.h"
+	"ArchivoClientes.h"
+	"ArchivoVentas.h"
+	"ArchivoElectrodomesticos.h"
+	"rlutil.h"
+	"Funciones.h"
+	<iostream>
+
+1708627618 source:c:\users\mati\desktop\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo con menu\electrodomesticos.cpp
+	"Electrodomesticos.h"
+	<iostream>
+	<cstring>
+	<string>
+
+1708629868 source:c:\users\mati\desktop\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo con menu\electrodomesticosmenu.cpp
+	"ElectrodomesticosMenu.h"
+	<iostream>
+	"rlutil.h"
+	"Funciones.h"
+
+1707936496 source:c:\users\mati\desktop\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo con menu\fecha.cpp
+	<ctime>
+	<iostream>
+	"fecha.h"
+
+1708624781 source:c:\users\mati\desktop\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo con menu\funciones.cpp
+	<iostream>
+	"Funciones.h"
+	"rlutil.h"
+
+1708550882 source:c:\users\mati\desktop\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo con menu\main.cpp
+	"Aplicacion.h"
+	"ManagerVentas.h"
+	"Ventas.h"
+
+1708627271 source:c:\users\mati\desktop\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo con menu\managerclientes.cpp
+	"ManagerClientes.h"
+	"ArchivoVentas.h"
+	"rlutil.h"
+	"Funciones.h"
+	<iostream>
+
+1708629129 source:c:\users\mati\desktop\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo con menu\managerelectrodomesticos.cpp
+	"ManagerElectrodomesticos.h"
+	"rlutil.h"
+	"Funciones.h"
+	<iostream>
+
+1708630276 source:c:\users\mati\desktop\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo con menu\ventas.cpp
+	"Ventas.h"
+	<iostream>
+	<ctime>
+	<cstring>
+
+1708633147 source:c:\users\mati\desktop\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo con menu\ventasmenu.cpp
+	"VentasMenu.h"
+	<iostream>
+	"rlutil.h"
+	"Funciones.h"
+
+1708633753 source:c:\users\mati\desktop\drive compartido\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo con menu\managerventas.cpp
+	"ManagerVentas.h"
+	"ArchivoClientes.h"
+	"ArchivoElectrodomesticos.h"
+	"ManagerClientes.h"
+	"ManagerElectrodomesticos.h"
+	"Fecha.h"
+	<ctime>
+	"rlutil.h"
+	"Funciones.h"
+	<iostream>
+	<cstdlib>
+	<string>
+
+1708632811 source:c:\users\mati\desktop\utn\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo\aplicacion.cpp
+	"Aplicacion.h"
+	"ClientesMenu.h"
+	"ElectrodomesticosMenu.h"
+	"VentasMenu.h"
+	"configuracionMenu.h"
+	<iostream>
+	"rlutil.h"
+	"Funciones.h"
+
+1708542232 c:\users\mati\desktop\utn\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo\aplicacion.h
+
+1708386078 c:\users\mati\desktop\utn\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo\clientesmenu.h
+	"ManagerClientes.h"
+
+1708292556 c:\users\mati\desktop\utn\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo\managerclientes.h
+	"Clientes.h"
+	"ArchivoClientes.h"
+	"ArchivoVentas.h"
+
+1708624706 c:\users\mati\desktop\utn\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo\clientes.h
+	"Fecha.h"
+	<string>
+
+1707936394 c:\users\mati\desktop\utn\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo\fecha.h
+	<string>
+
+1708303552 c:\users\mati\desktop\utn\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo\archivoclientes.h
+	"Clientes.h"
+	<string>
+
+1708631213 c:\users\mati\desktop\utn\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo\archivoventas.h
+	"Ventas.h"
+	<string>
+
+1708284439 c:\users\mati\desktop\utn\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo\ventas.h
+	"Fecha.h"
+
+1708386506 c:\users\mati\desktop\utn\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo\electrodomesticosmenu.h
+	"ManagerElectrodomesticos.h"
+
+1708339460 c:\users\mati\desktop\utn\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo\managerelectrodomesticos.h
+	"Electrodomesticos.h"
+	"ArchivoElectrodomesticos.h"
+
+1708627612 c:\users\mati\desktop\utn\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo\electrodomesticos.h
+	"Fecha.h"
+
+1708305511 c:\users\mati\desktop\utn\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo\archivoelectrodomesticos.h
+	"Electrodomesticos.h"
+	<string>
+
+1708386677 c:\users\mati\desktop\utn\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo\ventasmenu.h
+	"ManagerVentas.h"
+
+1708554565 c:\users\mati\desktop\utn\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo\managerventas.h
+	"ArchivoClientes.h"
+	"ArchivoElectrodomesticos.h"
+	"Ventas.h"
+	"ArchivoVentas.h"
+	"ManagerClientes.h"
+	"ManagerElectrodomesticos.h"
+	<string>
+
+1708538871 c:\users\mati\desktop\utn\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo\configuracionmenu.h
+	"ArchivoClientes.h"
+	"ArchivoVentas.h"
+	"ArchivoElectrodomesticos.h"
+
+1708341126 c:\users\mati\desktop\utn\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1708624650 c:\users\mati\desktop\utn\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo\funciones.h
+	<cstring>
+
+1708303552 source:c:\users\mati\desktop\utn\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo\archivoclientes.cpp
+	"ArchivoClientes.h"
+	<cstdio>
+	<iostream>
+
+1708628562 source:c:\users\mati\desktop\utn\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo\archivoelectrodomesticos.cpp
+	"ArchivoElectrodomesticos.h"
+	"ManagerElectrodomesticos.h"
+	<cstdio>
+	<iostream>
+
+1708632077 source:c:\users\mati\desktop\utn\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo\archivoventas.cpp
+	"ArchivoVentas.h"
+	"ManagerVentas.h"
+	<cstdio>
+	<iostream>
+
+1708627567 source:c:\users\mati\desktop\utn\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo\clientes.cpp
+	"Clientes.h"
+	<iostream>
+	<string>
+	<cstring>
+
+1708627331 source:c:\users\mati\desktop\utn\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo\clientesmenu.cpp
+	"ClientesMenu.h"
+	"rlutil.h"
+	"Funciones.h"
+	<iostream>
+
+1708539808 source:c:\users\mati\desktop\utn\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo\configuracionmenu.cpp
+	"configuracionMenu.h"
+	"ArchivoClientes.h"
+	"ArchivoVentas.h"
+	"ArchivoElectrodomesticos.h"
+	"rlutil.h"
+	"Funciones.h"
+	<iostream>
+
+1708627618 source:c:\users\mati\desktop\utn\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo\electrodomesticos.cpp
+	"Electrodomesticos.h"
+	<iostream>
+	<cstring>
+	<string>
+
+1708629868 source:c:\users\mati\desktop\utn\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo\electrodomesticosmenu.cpp
+	"ElectrodomesticosMenu.h"
+	<iostream>
+	"rlutil.h"
+	"Funciones.h"
+
+1707936496 source:c:\users\mati\desktop\utn\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo\fecha.cpp
+	<ctime>
+	<iostream>
+	"fecha.h"
+
+1708624781 source:c:\users\mati\desktop\utn\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo\funciones.cpp
+	<iostream>
+	"Funciones.h"
+	"rlutil.h"
+
+1708550882 source:c:\users\mati\desktop\utn\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo\main.cpp
+	"Aplicacion.h"
+	"ManagerVentas.h"
+	"Ventas.h"
+
+1708627271 source:c:\users\mati\desktop\utn\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo\managerclientes.cpp
+	"ManagerClientes.h"
+	"ArchivoVentas.h"
+	"rlutil.h"
+	"Funciones.h"
+	<iostream>
+
+1708629129 source:c:\users\mati\desktop\utn\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo\managerelectrodomesticos.cpp
+	"ManagerElectrodomesticos.h"
+	"rlutil.h"
+	"Funciones.h"
+	<iostream>
+
+1708641004 source:c:\users\mati\desktop\utn\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo\managerventas.cpp
+	"ManagerVentas.h"
+	"ArchivoClientes.h"
+	"ArchivoElectrodomesticos.h"
+	"ManagerClientes.h"
+	"ManagerElectrodomesticos.h"
+	"Fecha.h"
+	<ctime>
+	"rlutil.h"
+	"Funciones.h"
+	<iostream>
+	<cstdlib>
+	<string>
+
+1708630276 source:c:\users\mati\desktop\utn\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo\ventas.cpp
+	"Ventas.h"
+	<iostream>
+	<ctime>
+	<cstring>
+
+1708633147 source:c:\users\mati\desktop\utn\3° cuatrimestre\laboratorio ii\proyecto labo ii (febrero)\tp labo\ventasmenu.cpp
+	"VentasMenu.h"
+	<iostream>
+	"rlutil.h"
+	"Funciones.h"
+
